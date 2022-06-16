@@ -21,7 +21,6 @@ requirements:
     - pip
     - python
   run:
-    - openssl >=3.0.0
     - python >=3.8
 
 about:
