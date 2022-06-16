@@ -18,9 +18,11 @@ requirements:
   build:
     - heelo
   host:
+    - heelo
     - pip
     - python
   run:
+    - heelo
     - python >=3.7
 
 about:
